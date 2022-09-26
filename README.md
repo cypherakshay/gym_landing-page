@@ -17,7 +17,7 @@
 
 &nbsp;
 
-This project is a gym landing page which contains a form for leads details. In this project, I learned to create a form with HTML and put background image and use of CSS property to get navbar with hover-button. I learned to use creativity with code and some basics of CSS, which makes the task very easier.
+This project is a gym landing page that contains a form for lead details. In this project, I learned to create a form with HTML and put a background image, and use of CSS property to get navbar with hover-button. I learned to use creativity with code and some basics of CSS, which makes the task very easier.
  
 
 &nbsp;
