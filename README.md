@@ -43,7 +43,9 @@ I write the code with the proper comments to understand its reference easily to 
 
 &nbsp;
 
-![Project Snapshot](./ReadmeAssets/gym-landing-page.png)
+
+![Project Snapshot](https://user-images.githubusercontent.com/110058268/192316739-a33b5d6c-587d-46d1-938c-3afadb01103c.png)
+
 
 &nbsp;
 
