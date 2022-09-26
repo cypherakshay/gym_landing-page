@@ -1,0 +1,106 @@
+/* IMPORT-FONT */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&display=swap');
+
+/* CSS Reset */
+body {
+  font-family: "Baloo 2", cursive;
+  margin: 0px;
+  padding: 0px;
+  background-image: url("/Images/Gym1.jpg");
+}
+
+/* NAVBAR_SECTION */
+.left {
+  position: absolute;
+  left: 110px;
+  top: 1px;
+  display: inline-block;
+}
+.left img {
+  width: 150px;
+}
+.mid {
+  display: flex;
+  justify-content: flex-end;
+  width: 60%;
+  margin: 30px auto;
+}
+.right {
+  position: absolute;
+  right: 34px;
+  top: 45px;
+  display: inline-block;
+}
+.navbar {
+  display: inline-block;
+}
+.navbar li {
+  display: inline-block;
+  font-size: 20px;
+}
+.navbar li a {
+  color: white;
+  text-decoration: none;
+  padding: 15px 10px;
+}
+.navbar li a:hover,
+.navbar li a.active {
+  text-decoration: underline;
+  color: rgb(77, 77, 77);
+}
+
+/* NAVBAR-BUTTON */
+.btn {
+  font-family: "Baloo 2", cursive;
+  margin: 0px 9px;
+  background-color: rgb(15, 15, 15);
+  color: rgb(219, 219, 219);
+  padding: 4px 14px;
+  border: 2px solid rgb(88, 88, 88);
+  border-radius: 10px;
+  font-size: 17px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: rgb(31, 31, 31);
+}
+#email.btn:hover {
+  background-color: rgb(31, 31, 31);
+}
+
+/* FORM-CONTAINER */
+.container {
+  border: 2px solid whitesmoke;
+  margin: 150px 1000px;
+  padding: 50px;
+  width: 33%;
+  border-radius: 15px;
+}
+.form-group input {
+  font-family: "Baloo 2", cursive;
+  text-align: center;
+  display: block;
+  width: 400px;
+  padding: 1px;
+  border: 2px solid black;
+  margin: 11px auto;
+  font-size: 25px;
+  border-radius: 8px;
+}
+.container h1 {
+  text-align: center;
+  color: rgba(185, 185, 185, 0.861);
+}
+.container button {
+  display: block;
+  width: 50%;
+  margin: 20px auto;
+  background-color: rgba(102, 37, 0, 0.582);
+}
+/* CREATOR */
+.creator  {
+  color: rgba(255, 228, 196, 0.329);
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 50px;
+}
