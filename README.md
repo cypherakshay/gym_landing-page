@@ -1,5 +1,4 @@
-
-![Akshay Logo](./ReadmeAssets/akshayLogo.png)
+![Akshay_Logo](https://user-images.githubusercontent.com/110058268/192380880-88d3794d-a927-4515-929e-33cd308b3791.png)
 # AKSHAY MISHRA 
 ### (Aspiring Full Stack Javscript Web Developer)              
 
@@ -54,8 +53,7 @@ I write the code with the proper comments to understand its reference easily to 
 
 &nbsp;
 
-[<img alt="Go Live" width="170px" src="./ReadmeAssets/live.png" />](https://cypherakshay-gym.netlify.app/ "Go Live")
-
+[<img alt="Go Live" width="170px" src="https://user-images.githubusercontent.com/110058268/192381169-8441c110-50f4-43a0-9ab1-b4cd6c509f95.png" />](https://cypherakshay-gym.netlify.app/ "Go Live")
 
 &nbsp;
 
@@ -74,19 +72,17 @@ I write the code with the proper comments to understand its reference easily to 
 
 ## **CHECK MY OTHER LIVE PROJECTS :**
 
- [<img alt="Fincoder Portfolio" width="200px" src="./ReadmeAssets/findcoderlogo.png" />](https://www.findcoder.io/u/cypherakshay "Check my Portfolio")
+ [<img alt="Fincoder Portfolio" width="200px" src="https://user-images.githubusercontent.com/110058268/192388254-11ffd2b4-2c52-40eb-84aa-7ad6bd709cff.png" />](https://www.findcoder.io/u/cypherakshay "Check my Portfolio")
+ 
+
  ##### (Click on Findcoder logo to check my portfolio of other projects.)
 
 &nbsp;
 
 ## **Follow me on :**
-[<img alt="Hashnode" width="100px" src="./ReadmeAssets/hashnodelogo.png" />](https://hashnode.com/@CypherAkshay "Follow me on Hashnode")
-[<img alt="Linkedin" width="100px" src="./ReadmeAssets/linkedinlogo.png" />](https://www.linkedin.com/in/cypher-akshay/ "Follow me on Linkedin")
-[<img alt="Twitter" width="100px" src="./ReadmeAssets/twitterlogo.png" />](https://twitter.com/cypherakshay "Follow me on Twitter")
-
-
-
-
+[<img alt="Hashnode" width="100px" src="https://user-images.githubusercontent.com/110058268/192389289-13e5947e-de5a-42f6-a3e3-4dd290dbd79e.png" />](https://hashnode.com/@CypherAkshay "Follow me on Hashnode")
+[<img alt="Linkedin" width="100px" src="https://user-images.githubusercontent.com/110058268/192389270-91f39005-b30e-4715-b96c-97f33dafeb5b.png" />](https://www.linkedin.com/in/cypher-akshay/ "Follow me on Linkedin")
+[<img alt="Twitter" width="100px" src="https://user-images.githubusercontent.com/110058268/192389244-2c9954a2-db49-4cfe-abb6-e050d9749d28.png" />](https://twitter.com/cypherakshay "Follow me on Twitter")
 
 
 ##### (Follow me on Hashnode to read my articles on web development and lots of tips and tricks are coming soon for the coder community.)
